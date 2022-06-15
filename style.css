@@ -334,7 +334,7 @@ header{
     "project_item2 project_item3"; 
 }
 .project_item1 {
-  background-image: url(images/project1.png);
+  background-image: url(project1.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -343,7 +343,7 @@ header{
   height: 417px; 
 }
 .project_item2 {
-  background-image: url(images/project2.png);
+  background-image: url(project2.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -352,7 +352,7 @@ header{
   height: 417px; 
 }
 .project_item3 {
-  background-image: url(images/project3.png);
+  background-image: url(project3.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;

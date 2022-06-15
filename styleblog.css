@@ -19,7 +19,7 @@ body {
 .header__content{
     margin-bottom: 50px;
     max-height: 100%;
-    background-image: url(images/fonh.png);
+    background-image: url(fonh.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: top center;
